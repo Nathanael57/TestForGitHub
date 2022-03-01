@@ -7,7 +7,6 @@ public class Main {
 
         System.out.println("Hello Vistula - My Name is Nathanael");
 
-        System.out.println("Hello Vistula - My first name is Nathanael and my last name is Dabi");
 
 
     }
